@@ -23,11 +23,11 @@ public class PainChart extends JPanel{
 	private JComboBox painLevelComboBox;
 	private JCheckBox bodyDiagramCheckBox;
 	private JTextArea additionalSymptomsTextArea;
-	
-	
+
+
 
 	public PainChart(Vector accountList) {
-		// TODO Auto-generated constructor stub
+		// TODO Auto-generated constructor stub.
 	}
 
 	public PainChart(Vector accountList, int num) {
@@ -38,7 +38,7 @@ public class PainChart extends JPanel{
 		private Boolean nextButtonClicked;
 		public void actionPerformed(ActionEvent action)
 		{
-			
+
 		}
 	}
 }
