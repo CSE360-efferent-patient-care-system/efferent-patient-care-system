@@ -27,7 +27,11 @@ public class MedicalPage extends JApplet{
 	private MedicalAccount medicalaccount;
 
 			
+<<<<<<< HEAD
 //The method init initializes the Applet with a Pane with two tabs
+=======
+//The method init initializes the Applet with a Pane with two tabs.
+>>>>>>> dc98e1433429aa8777f6c78587116cf6109a5575
    public void init()
     {
      //list of accounts to be used in every panel
