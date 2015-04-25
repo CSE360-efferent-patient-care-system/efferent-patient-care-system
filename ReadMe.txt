@@ -1,0 +1,1 @@
+the classes are all ready to run all you have to do is make sure that the files "doctorLogin.txt", "pictureNameArray.txt", and the "body images" folder are all in the desktop. if you have any issues please let me know otherwise the propram is done.
